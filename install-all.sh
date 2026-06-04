@@ -4,3 +4,4 @@
 . ./install-stow.sh
 . ./install-vim.sh
 . ./install-dotfiles.sh
+. ./install-hyprland-overrides.sh
